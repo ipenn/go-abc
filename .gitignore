@@ -1,0 +1,7 @@
+*.go.swp
+*.go.swo
+.idea/
+/.idea/
+/conf
+/task
+/third
